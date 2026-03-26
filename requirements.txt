@@ -1,0 +1,16 @@
+transformers
+accelerate
+datasets
+huggingface_hub
+soundfile
+librosa
+scikit-learn
+pandas
+matplotlib
+scipy
+tqdm
+statsmodels
+joblib
+pyarrow
+torch
+numpy
